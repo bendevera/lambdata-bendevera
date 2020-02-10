@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata_bendevera",
-    version="0.1",
+    version="0.2",
     author="Ben de Vera",
     author_email="ben10devera@gmail.com",
     description="Data helper functions package.",
