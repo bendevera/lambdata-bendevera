@@ -1,8 +1,0 @@
-README.md
-setup.py
-lambdata/__init__.py
-lambdata/main.py
-lambdata_bendevera.egg-info/PKG-INFO
-lambdata_bendevera.egg-info/SOURCES.txt
-lambdata_bendevera.egg-info/dependency_links.txt
-lambdata_bendevera.egg-info/top_level.txt
