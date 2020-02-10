@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-bendevera",
-    version="1.0",
+    version="0.1",
     author="Ben de Vera",
     author_email="ben10devera@gmail.com",
-    description="Gameplay logic for Rock-Paper-Scissors",
+    description="Data helper functions package.",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     license="MIT",
-    url="https://github.com/s2t2/game-utils-py",
-    keywords="rock paper scissors game",
+    url="https://github.com/bendevera/lambdata-bendevera",
+    keywords="data tools pandas",
     packages=find_packages() # ["game_utils"]
 )
