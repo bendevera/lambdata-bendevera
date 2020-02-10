@@ -1,3 +1,4 @@
 build/
 dist/
 lambdata_bendevera.egg-info/
+test_data/
